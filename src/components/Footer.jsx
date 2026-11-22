@@ -16,6 +16,7 @@ export default function Footer({ t }) {
           <a href="#pillars">{t.nav.pillars}</a>
           <a href="#organization">{t.nav.organization}</a>
           <a href="#privacy">{t.footer.privacyLink}</a>
+          <a href="privacy/">{t.footer.gamePolicies}</a>
           <a href="#contact">{t.nav.contact}</a>
         </nav>
         <a className="back-to-top" href="#main-content" aria-label={t.nav.skip}><ArrowUp size={20} /></a>

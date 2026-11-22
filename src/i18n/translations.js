@@ -108,6 +108,7 @@ export const translations = {
       rights: 'All rights reserved.',
       tagline: 'Independent mobile game studio building lightweight, 60 FPS arcade titles on Godot 4.6.3.',
       privacyLink: 'Privacy Policy',
+      gamePolicies: 'Game privacy policies',
       dunsLink: 'D-U-N-S Application Planned'
     }
   },
@@ -215,6 +216,7 @@ export const translations = {
       rights: 'تمام جملہ حقوق محفوظ ہیں۔',
       tagline: 'گوڈوٹ ۴.۶.۳ پر تیار کردہ تیز رفتار اور پرفیکٹ موبائل گیمز۔',
       privacyLink: 'پرائیویسی پالیسی',
+      gamePolicies: 'گیمز کی پرائیویسی پالیسی',
       dunsLink: 'D-U-N-S درخواست کا منصوبہ'
     }
   },
@@ -322,6 +324,7 @@ export const translations = {
       rights: 'جميع الحقوق محفوظة.',
       tagline: 'استوديو ألعاب جوال مستقل يبني ألعاب أركيد خفيفة بمعدل 60 إطاراً على Godot 4.6.3.',
       privacyLink: 'سياسة الخصوصية',
+      gamePolicies: 'سياسات خصوصية الألعاب',
       dunsLink: 'طلب D-U-N-S مخطط له'
     }
   },
@@ -429,6 +432,7 @@ export const translations = {
       rights: 'Todos los derechos reservados.',
       tagline: 'Estudio indie creando juegos móviles ligeros a 60 FPS en Godot 4.6.3.',
       privacyLink: 'Política de Privacidad',
+      gamePolicies: 'Políticas de privacidad de los juegos',
       dunsLink: 'Solicitud D-U-N-S Planificada'
     }
   },
@@ -536,6 +540,7 @@ export const translations = {
       rights: 'Alle Rechte vorbehalten.',
       tagline: 'Unabhängiges Spielestudio für kompakte 60-FPS-Titel auf Godot 4.6.3.',
       privacyLink: 'Datenschutz',
+      gamePolicies: 'Datenschutz der Spiele',
       dunsLink: 'D-U-N-S-Antrag geplant'
     }
   },
@@ -643,6 +648,7 @@ export const translations = {
       rights: '無断転載を禁じます。',
       tagline: 'Godot 4.6.3で創る、軽快で心地よいモバイルアーケードゲーム。',
       privacyLink: 'プライバシーポリシー',
+      gamePolicies: 'ゲームのプライバシーポリシー',
       dunsLink: 'D-U-N-S申請予定'
     }
   }

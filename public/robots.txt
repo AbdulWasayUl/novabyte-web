@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://novabytestudios.github.io/sitemap.xml
+Sitemap: https://novabytestudios.wasay.dev/sitemap.xml
